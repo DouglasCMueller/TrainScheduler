@@ -1,0 +1,68 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jumbotron.jumbotron-fluid {
+width: 90%;
+text-align: center;
+margin-left: 5%;
+background: burlywood;
+color:white;
+}
+.lead {
+    font-weight: 1000;
+  
+}
+#time {
+    font-weight: bolder;
+    color: black;
+}
+.tableContainer {
+    width: 90%;
+    margin-left: 5%;
+    border: solid 2px blue;
+}
+.tableHeader {
+    
+    background: blue;
+    color: white;
+    font-weight: 1000;
+    padding: .9% ;
+    margin-bottom: 0;
+}
+th {
+    font-weight: bolder;
+}
+.tableHeader p {
+    margin-bottom: 0;
+}
+.inputContainer {
+    width: 90%;
+    margin-left: 5%;
+    border: solid 2px blue;
+}
+.inputHeader {
+       
+    background: blue;
+    color: white;
+    font-weight: 1000;
+    padding: .9% ;
+    margin-bottom: 0;
+}
+.inputHeader p {
+    margin-bottom: 0;
+}
+label {
+    margin-left: 1%;
+    font-weight: 1000;
+    padding: 1%;
+}
+.form-control {
+   margin-left: 1%;
+    width: 95%;
+}
+.submitButtonStyled {
+    background: blue;
+    color: white;
+    margin: 1%;
+    padding: .7%;
+}
